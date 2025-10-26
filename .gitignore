@@ -1,20 +1,8 @@
-# 编译生成的文件
 build/
 devel/
 install/
 .catkin_workspace
-
-# 日志
 *.log
-
-# IDE
 .vscode/
-.idea/
-
-# Python
 __pycache__/
-*.pyc
-
-# 临时文件
 *~
-*.swp
