@@ -1,0 +1,21 @@
+# ROS 生成的文件
+build/
+devel/
+install/
+.catkin_workspace
+
+# 日志文件
+*.log
+
+# IDE 文件
+.vscode/
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 备份文件
+*~
+*.swp
+*.swo

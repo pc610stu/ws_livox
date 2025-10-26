@@ -1,0 +1,17 @@
+{
+    "lidar_config": [
+        {
+            "broadcast_code": "YOUR_BROADCAST_CODE_HERE",
+            "enable_connect": true,
+            "return_mode": 0,
+            "coordinate": 0,
+            "imu_rate": 0,
+            "extrinsic_parameter_source": 0,
+            "enable_high_sensitivity": false
+        }
+    ],
+    
+    "timesync_config": {
+        "enable_timesync": false
+    }
+}
