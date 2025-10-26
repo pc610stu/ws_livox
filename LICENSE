@@ -1,0 +1,11 @@
+本项目包含以下第三方开源组件：
+
+1. Livox ROS Driver (第一代)
+   - 仓库: https://github.com/Livox-SDK/livox_ros_driver
+   - 协议: BSD 3-Clause License
+
+2. Livox ROS Driver2 (第二代)
+   - 仓库: https://github.com/Livox-SDK/livox_ros_driver2
+   - 协议: BSD 3-Clause License
+
+这些组件保留其原始协议，详见各自目录下的 LICENSE 文件。
